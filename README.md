@@ -6,7 +6,11 @@
 
 Most statusbars lack proper documentation & are built cunfusingly and are window-manager dependent.
 
-eyecandybar is an attempt to make a statusbar that lets the user dictate how the statusbar looks and what components are shown. It's meant to simply display information via text, like a floating terminal, but as a statusbar. The only difference being that there are no confusing "modules" that dictate settings and stuff like other statusbars.
+eyecandybar is an attempt to make a statusbar that lets the user dictate how the statusbar looks and what components are shown.
+
+It's meant to simply display information via text, like a floating terminal, but as a statusbar.
+
+The main difference from most statusbars is that there are no confusing "modules" that dictate settings and stuff like other statusbars, the user configures everything, but there will be lots of documentation to help the user.
 
 ## The Plan
 
